@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoPointers/TwoPointers.iml" filepath="$PROJECT_DIR$/TwoPointers/TwoPointers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ds-algo.iml" filepath="$PROJECT_DIR$/.idea/ds-algo.iml" />
     </modules>
